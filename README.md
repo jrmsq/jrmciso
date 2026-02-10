@@ -12,7 +12,7 @@ No shortcuts. No just-enough-to-pass-the-cert studying. I built a real SOC envir
 
 What started as a basic SecurityOnion setup has grown into a **full enterprise-grade detection and monitoring platform**. I'm not just following tutorials—I'm solving real problems, writing custom detection rules, and building the kind of visibility that organizations need and implement.
 
-Every system I configure, every alert I tune, every incident playbook I write is building the technical foundation and strategic mindset I need to lead security programs.
+Every system I configure, every alert I tune, and every incident playbook I write build the technical foundation and strategic mindset I need to lead security programs.
 
 This repository is my proof of work.
 
@@ -28,34 +28,34 @@ This repository is my proof of work.
 
 ## 📚 Table of Contents
 
-### [Part 1: Proxmox Setup](./Part1-Proxmox-Setup/)
+### Part 1: Proxmox Setup 
 - Hypervisor installation and configuration
 - Network architecture planning
 - Storage configuration
 - Initial system hardening 
 
-### [Part 2: Virtual Machine Deployment](./Part2-Install-VMs/)
-- [Windows Server 2022 Setup](./Part2-Install-VMs/windows-server-2022-setup.md)
-- [Windows 11 Workstation Setup](./Part2-Install-VMs/windows-11-setup.md)
-- [Ubuntu Server Setup](./Part2-Install-VMs/ubuntu-setup.md)
+### Part 2: Virtual Machine Deployment 
+- Windows Server 2022 Setup 
+- Windows 11 Workstation Setup
+  Ubuntu Server Setup
 - Resource allocation and optimization
 
-### [Part 3: OPNsense Installation & Configuration](./Part3-OPNsense-Install-Config/)
+###  Part 3: OPNsense Installation & Configuration 
 - Firewall deployment
-- [VLAN Configuration](./Part3-OPNsense-Install-Config/VLANs.md)
-- [Firewall Rules](./Part3-OPNsense-Install-Config/FirewallRules.md)
-- [DNS Configuration with dnsmasq](./Part3-OPNsense-Install-Config/dnsmasq.md)
+- VLAN Configuration
+  Firewall Rules
+- DNS Configuration with dnsmasq
 
 ### [Part 4: SecurityOnion Deployment](./Part4-SecurityOnion-Deployment/)
 - SIEM/NSM installation
-- [Syslog Configuration](./Part4-SecurityOnion-Deployment/Syslog-Config.md)
-- [NetFlow Configuration](./Part4-SecurityOnion-Deployment/Netflow-Config.md)
+- Syslog Configuration 
+- NetFlow Configuration 
 - Detection rule creation
 
 ### [Part 5: Network Infrastructure](./Part5-Network-Infrastructure/)
-- [Physical Switch VLAN Configuration](./Part5-Network-Infrastructure/Switch-VLANs.md)
-- [TP-Link EAP650 Wireless VLAN Setup](./Part5-Network-Infrastructure/TPLink-EAP650-WLAN-VLAN.md)
-- [Proxmox VLAN Trunking](./Part5-Network-Infrastructure/Proxmox-VLAN-Trunking.md)
+- Physical Switch VLAN Configuration 
+- TP-Link EAP650 Wireless VLAN Setup 
+- Proxmox VLAN Trunking 
 - Network segmentation and isolation
 
 ---
