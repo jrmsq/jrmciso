@@ -32,7 +32,7 @@ This repository is my proof of work.
 - Hypervisor installation and configuration
 - Network architecture planning
 - Storage configuration
-- Initial system hardening
+- Initial system hardening 
 
 ### [Part 2: Virtual Machine Deployment](./Part2-Install-VMs/)
 - [Windows Server 2022 Setup](./Part2-Install-VMs/windows-server-2022-setup.md)
