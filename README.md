@@ -46,13 +46,13 @@ This repository is my proof of work.
   Firewall Rules
 - DNS Configuration with dnsmasq
 
-### [Part 4: SecurityOnion Deployment](./Part4-SecurityOnion-Deployment/)
+###  Part 4: SecurityOnion Deployment 
 - SIEM/NSM installation
 - Syslog Configuration 
 - NetFlow Configuration 
 - Detection rule creation
 
-### [Part 5: Network Infrastructure](./Part5-Network-Infrastructure/)
+###  Part 5: Network Infrastructure 
 - Physical Switch VLAN Configuration 
 - TP-Link EAP650 Wireless VLAN Setup 
 - Proxmox VLAN Trunking 
