@@ -1,6 +1,6 @@
 # 🛡️ Johny Metellus | Aspiring CISO
 
-**Security Engineer | Home Lab Architect | Building Cybersecurity Leadership Skills**
+**Security Engineer | Threat Hunter & Packet Chaser | Cybersecurity Leader in the Making**
 
 ---
 
